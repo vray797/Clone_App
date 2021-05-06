@@ -1,0 +1,19 @@
+.footer {
+  background-color: #222;
+  display: flex;
+  align-items: center;
+  color: white;
+  letter-spacing: 1.45px;
+}
+
+.about {
+  margin-left: 2rem;
+}
+
+.about a {
+  color: crimson;
+  font-size: 1.2rem;
+  letter-spacing: normal;
+}
+
+
